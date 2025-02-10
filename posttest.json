@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which rectifier requires four diodes?",
+      "answers": {
+        "a": "half-wave voltage doubler",
+        "b": "full-wave voltage doubler",
+        "c": "full-wave bridge circuit",
+        "d": "voltage quadrupler"
+      },
+    
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. A voltage tripler circuit uses",
+      "answers": {
+        "a": "2 diodes and 2 capacitors",
+        "b": "2 diodes and 3 capacitors",
+        "c": "3 diodes and 3 capacitors",
+        "d": "3 diodes and 2 capacitors"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In a rectifier, larger the value of shunt capacitor filter",
+      "answers": {
+        "a": "larger the peak-to-peak value of ripple voltage",
+        "b": "longer the time that current pulse flows through the diode",
+        "c": "larger the peak current in the rectifying diode",
+        "d": "smaller the dc voltage across the load"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. A half wave rectifier is equivalent to",
+      "answers": {
+        "a": "clamper circuit",
+        "b": "a clamper circuit with negative bias",
+        "c": "a clipper circuit",
+        "d": "a clamper circuit with positive bias"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
