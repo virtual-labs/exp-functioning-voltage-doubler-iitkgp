@@ -1,1 +1,1 @@
-## Experiment name
+## Functioning of Voltage Doubler
