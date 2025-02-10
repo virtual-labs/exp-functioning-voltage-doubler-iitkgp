@@ -2,36 +2,50 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which rectifier requires four diodes?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "half-wave voltage doubler",
+        "b": "full-wave voltage doubler",
+        "c": "full-wave bridge circuit",
+        "d": "voltage quadrupler"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+    
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. A voltage tripler circuit uses",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2 diodes and 2 capacitors",
+        "b": "2 diodes and 3 capacitors",
+        "c": "3 diodes and 3 capacitors",
+        "d": "3 diodes and 2 capacitors"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In a rectifier, larger the value of shunt capacitor filter",
+      "answers": {
+        "a": "larger the peak-to-peak value of ripple voltage",
+        "b": "longer the time that current pulse flows through the diode",
+        "c": "larger the peak current in the rectifying diode",
+        "d": "smaller the dc voltage across the load"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. A half wave rectifier is equivalent to",
+      "answers": {
+        "a": "clamper circuit",
+        "b": "a clamper circuit with negative bias",
+        "c": "a clipper circuit",
+        "d": "a clamper circuit with positive bias"
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
