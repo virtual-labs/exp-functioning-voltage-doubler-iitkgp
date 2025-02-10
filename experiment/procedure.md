@@ -12,7 +12,7 @@
 
 6. In addition, the variation of one of the above parameters on the ripple voltage can also be studied.
 
-7.The parameters that have to be varied are shown to the user on the right pane. The user clicks the corresponding parameter from the Vary parameter box.Only ONE parameter is varied while the others are kept constant during the experiment.
+7. The parameters that have to be varied are shown to the user on the right pane. The user clicks the corresponding parameter from the Vary parameter box.Only ONE parameter is varied while the others are kept constant during the experiment.
 
 8. To begin the user enters the appropriate values of all the parameters and calculates the ripple as mentioned in step 5.
 
