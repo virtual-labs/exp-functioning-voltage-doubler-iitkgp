@@ -635,7 +635,7 @@ function txtboxrange()
 			return true;
 		}
 }
-<!--------------------------------Interaction with Flash-------------------------------->
+/*--------------------------------Interaction with Flash--------------------------------*/
 function getFlashMovie(movieName)
 {	
 	if(window.document[movieName]){ return window.document[movieName];}
@@ -668,7 +668,7 @@ function showtxtbox()
 
 }
 
-<!----------------------------------------------------------------------------->
+/*-----------------------------------------------------------------------------*/
 function validatetextboxes5()
 {	
 	if(document.getElementById('txt1').value=="")
