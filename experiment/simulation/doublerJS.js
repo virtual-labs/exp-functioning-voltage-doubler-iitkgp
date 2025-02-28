@@ -4,10 +4,10 @@ var f,I,C1,C2,calcripple,doublef,divterm1,divterm2,divterm3,multerm1,addterm1,mu
 var riple1cnt=0,riple2cnt=0,riple3cnt=0,riple4cnt=0,freqcnt=0,currcnt=0,cap1cnt=0,cap2cnt=0;
 
 var msg="**Enter some value for ";
-var msg1 = "Please Enter current value between the range 0.1µAmp - 100µAmp";
+var msg1 = "Please Enter current value between the range 0.1ï¿½Amp - 100ï¿½Amp";
 var msg2 = "Please Enter Frequency value between the range 50Hz - 5000Hz";
-var msg3 = "Please Enter Capacitance1 value between the range 0.1µF - 2µF";
-var msg4 = "Please Enter Capacitance2 value between the range 0.1µF - 2µF";
+var msg3 = "Please Enter Capacitance1 value between the range 0.1ï¿½F - 2ï¿½F";
+var msg4 = "Please Enter Capacitance2 value between the range 0.1ï¿½F - 2ï¿½F";
 
 function visible()
 {
@@ -110,7 +110,7 @@ function displaygraphcurr()
 	myChart.setTitle(' Current Vs. Ripple');
 	myChart.setTitleFontSize(22);
 	myChart.setFlagShape('square');
-	myChart.setAxisNameX('current(in µAmp)');
+	myChart.setAxisNameX('current(in ï¿½Amp)');
 	myChart.setAxisNameY('Ripple(in mV)');
 	myChart.setAxisNameFontSizeX(15);
 	myChart.setAxisNameFontSizeY(15);
@@ -354,7 +354,7 @@ function displaygraphcap1()
 	myChart.setTitle('Capcitance1 Vs. Ripple');
 	myChart.setTitleFontSize(22);
 	myChart.setFlagShape('square');
-	myChart.setAxisNameX('Capacitance1(in µF)');
+	myChart.setAxisNameX('Capacitance1(in ï¿½F)');
 	myChart.setAxisNameY('Ripple(in mV)');
 	myChart.setAxisNameFontSizeX(15);
 	myChart.setAxisNameFontSizeY(15);
@@ -475,7 +475,7 @@ function displaygraphcap2()
 	myChart.setTitle('Capcitance2 Vs. Ripple');
 	myChart.setTitleFontSize(22);
 	myChart.setFlagShape('square');
-	myChart.setAxisNameX('Capacitance2(in µF)');
+	myChart.setAxisNameX('Capacitance2(in ï¿½F)');
 	myChart.setAxisNameY('Ripple(in mV)');
 	myChart.setAxisNameFontSizeX(15);
 	myChart.setAxisNameFontSizeY(15);
