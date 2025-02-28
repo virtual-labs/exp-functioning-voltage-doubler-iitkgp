@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. A  voltage doubler circuit is suitable for the voltage upto",
+      "answers": {
+        "a": "2",
+        "b": "4",
+        "c": "10",
+        "d": "8"
+      },
+    
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. For measurement of ripple voltage in dc system,the condition to be satisfied is",
+      "answers": {
+        "a": "WCR<<1",
+        "b": "WCR=1",
+        "c": "WCR>>1",
+        "d": "None"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. A voltage doubler circuit is fed by a voltage Vm Sin ωt. The output voltage will be nearly 2 Vm only if",
+      "answers": {
+        "a": "load resistance is small",
+        "b": "load resistance is large",
+        "c": "load resistance neither small nor large",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
